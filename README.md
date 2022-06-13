@@ -32,10 +32,7 @@ The website displays the top destination and the gallery images also customers r
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png) 
 
 
-## Screenshots
 
-**HOME PAGE**
-![Home Page](
 # Explore Tours & Travels 
 
 This is a Tours & Travels Static Website made by me as my First Year mini project of Web Desiging.
@@ -72,7 +69,7 @@ The website displays the top destination and the gallery images also customers r
 ## Screenshots
 
 **HOME PAGE**
-![Home Page](../home.png)
+![Home Page](images/home.png)
 
 
 
