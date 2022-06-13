@@ -44,7 +44,7 @@ The website displays the top destination and the gallery images also customers r
 
 **CONTACT US PAGE**
 
-![Contact Us](images/contact us.png)
+![Contact Us](images/contact_us.png)
 
 
 
