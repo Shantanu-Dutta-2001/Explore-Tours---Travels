@@ -72,7 +72,7 @@ The website displays the top destination and the gallery images also customers r
 ## Screenshots
 
 **HOME PAGE**
-![Home Page](https://drive.google.com/file/d/1pmqTdbAYifps85fE7thxvL5I6n-N2pWy/view?usp=sharing)
+![Home Page]()
 
 
 
