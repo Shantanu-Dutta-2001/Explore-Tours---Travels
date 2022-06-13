@@ -35,12 +35,15 @@ The website displays the top destination and the gallery images also customers r
 ## Screenshots
 
 **HOME PAGE**
+
 ![Home Page](images/home.png)
 
 **BOOK NOW PAGE**
+
 ![Book Now](images/book.png)
 
 **CONTACT US PAGE**
+
 ![Contact Us](images/contact us.png)
 
 
