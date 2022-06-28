@@ -36,15 +36,15 @@ The website displays the top destination and the gallery images also customers r
 
 **HOME PAGE**
 
-![Home Page](images/home.png)
+![Home Page]()
 
 **BOOK NOW PAGE**
 
-![Book Now](images/book.png)
+![Book Now](images/)
 
 **CONTACT US PAGE**
 
-![Contact Us](images/contact_us.png)
+![Contact Us](images/)
 
 
 
